@@ -1,6 +1,6 @@
 # Maximizing-Revenue-Streams-for-Taxi-Cab-Drivers
 
-![image alt](
+![image alt](https://github.com/smrutisikha2001/Maximizing-Revenue-Streams-for-Taxi-Cab-Drivers/blob/f95da5a63f22b0dec861aa5427634c0264523938/TAXI.jpeg)
 
 ## Problem Statement : 
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximize revenue streams for taxi drivers. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.
